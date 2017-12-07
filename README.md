@@ -1,5 +1,7 @@
 # RSpec::SkipActiveRecordCallbacks
 
+![travis](https://travis-ci.org/ccallebs/rspec-skip_activerecord_callbacks.svg?branch=master)
+
 This gem allows you to easily skip ActiveRecord callbacks in your models. It
 automatically reverts the changes after the current context. This means you'll
 not have to re-enable them after you're done.
@@ -45,7 +47,7 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/rspec-skip_activerecord_callbacks. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
+Bug reports and pull requests are welcome on GitHub at https://github.com/ccallebs/rspec-skip_activerecord_callbacks. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
 
 ## License
 
